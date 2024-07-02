@@ -1,0 +1,84 @@
+Policy Number;Attempt Date;Return Date;Name;Initial/Recurring;Amount;Response Code;Method;Last 4;Exp;Primary/Secondary;Payment Source
+FM015395;2024-03-07 06:00:57.0;2024-03-07 06:00:57.0;UATJavikcDvHCxV;Initial Payment;135.28;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM031730;2024-03-07 06:02:53.0;2024-03-07 06:02:53.0;UATJavikKAlTMBp;Initial Payment;280.07;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM041581;2024-03-07 06:02:53.0;2024-03-07 06:02:53.0;UATJavikkQvpssa;Initial Payment;176.75;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM042290;2024-03-07 06:02:49.0;2024-03-07 06:02:49.0;UATJavikjmoaZFH;Initial Payment;280.07;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM048949;2024-03-07 06:03:15.0;2024-03-07 06:03:15.0;UATJavikJVzOVra;Initial Payment;135.28;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM057328;2024-03-07 06:00:57.0;2024-03-07 06:00:57.0;UATJavikSgvAdnq;Initial Payment;113.95;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM059368;2024-03-07 06:03:15.0;2024-03-07 06:03:15.0;UATJavikTbLgwjF;Initial Payment;113.95;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM070098;2024-03-07 06:02:56.0;2024-03-07 06:02:56.0;UATJavikRToKlmR;Initial Payment;176.75;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM071891;2024-03-07 06:03:04.0;2024-03-07 06:03:04.0;UATJavikLJAZgmO;Initial Payment;227.90;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM084163;2024-03-07 06:00:59.0;2024-03-07 06:00:59.0;UATJavikoOedwcY;Initial Payment;235.36;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM087512;2024-03-07 06:03:02.0;2024-03-07 06:03:02.0;UATUcrjSnhEsADHhPpN;Initial Payment;165.46;APPROVED;CC;3222;1224;Primary;Scheduled Payment
+FM100201;2024-03-07 06:00:57.0;2024-03-07 06:00:57.0;Romano;Initial Payment;170.60;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM105970;2024-03-07 06:02:56.0;2024-03-07 06:02:56.0;UATJavikkWAQCgH;Initial Payment;113.95;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM118106;2024-03-07 06:03:03.0;2024-03-07 06:03:03.0;UATJavikbbvgWTD;Initial Payment;227.90;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM129042;2024-03-07 18:29:56.0;2024-03-07 18:29:56.0;UATJavikUtUbVvO;Initial Payment;227.90;GENERIC DECLINE;ACH;2227;          ;Primary;Scheduled Payment
+FM142505;2024-03-07 06:02:58.0;2024-03-07 06:02:58.0;UATJavikOmEJzJD;Initial Payment;113.95;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM150661;2024-03-07 06:02:09.0;2024-03-07 06:02:09.0;UATJavikWFLnHiF;Initial Payment;87.10;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM154431;2024-03-07 06:02:14.0;2024-03-07 06:02:14.0;UATJavikEyHgtRH;Initial Payment;251.66;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM154579;2024-03-07 08:49:47.0;2024-03-07 08:49:47.0;Bingo;Recurring;713.87;EXPIRED CARD;CC;4242;1223;Primary;Scheduled Payment
+FM154939;2024-03-07 06:02:14.0;2024-03-07 06:02:14.0;UATJavikiYVtldQ;Recurring;490.71;APPROVED;CC;4242;1026;Primary;Scheduled Payment
+FM171463;2024-03-07 06:02:56.0;2024-03-07 06:02:56.0;UATJavikNtfOFlV;Initial Payment;186.47;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM175355;2024-03-07 06:03:14.0;2024-03-07 06:03:14.0;UATJavikzDYvjEB;Initial Payment;235.36;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM176048;2024-03-07 06:02:47.0;2024-03-07 06:02:47.0;UATJavikCRxFetl;Initial Payment;165.46;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM176474;2024-03-07 06:02:15.0;2024-03-07 06:02:15.0;UATJavikubvyTjJ;Initial Payment;227.90;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM180223;2024-03-07 20:06:46.0;2024-03-07 20:06:46.0;Gomez;Initial Payment;43.76;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM194503;2024-03-07 06:02:16.0;2024-03-07 06:02:16.0;UATJavikgVpiMMr;Initial Payment;141.78;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM228560;2024-03-07 06:03:04.0;2024-03-07 06:03:04.0;Barbaton;Initial Payment;33.59;APPROVED;CC;3222;1224;Primary;Scheduled Payment
+FM235582;2024-03-07 06:02:15.0;2024-03-07 06:02:15.0;UATJavikxpqUcPJ;Initial Payment;97.78;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM242644;2024-03-07 06:02:55.0;2024-03-07 06:02:55.0;UATJtevvillPFmgPzPa;Initial Payment;165.46;APPROVED;CC;3222;1224;Primary;Scheduled Payment
+FM250510;2024-03-07 16:52:30.0;2024-03-07 16:52:30.0;UATmNiCUDzuIKzYVXMu;Initial Payment;113.95;APPROVED;CC;3222;1224;Primary;Scheduled Payment
+FM250513;2024-03-07 06:00:57.0;2024-03-07 06:00:57.0;UATJavikAINTRcF;Initial Payment;113.95;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM264748;2024-03-07 06:01:46.0;2024-03-07 06:01:46.0;TestL;Initial Payment;141.78;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM277849;2024-03-07 06:01:43.0;2024-03-07 06:01:43.0;UATJavikIzuvyeV;Initial Payment;165.46;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM305510;2024-03-07 06:02:56.0;2024-03-07 06:02:56.0;UATJavikmLxavjp;Initial Payment;376.34;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM317469;2024-03-07 06:03:03.0;2024-03-07 06:03:03.0;Cleveland;Initial Payment;20.32;APPROVED;CC;3222;1224;Primary;Scheduled Payment
+FM324868;2024-03-07 06:02:14.0;2024-03-07 06:02:14.0;UATJavikxugMAzZ;Initial Payment;227.90;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM348827;2024-03-07 06:02:53.0;2024-03-07 06:02:53.0;UATJavikeKbuPUf;Initial Payment;113.95;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM370488;2024-03-07 06:00:57.0;2024-03-07 06:00:57.0;UATJaviksAjYMlt;Initial Payment;141.78;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM395700;2024-03-07 06:02:56.0;2024-03-07 06:02:56.0;UATJavikmSnCJqG;Initial Payment;227.90;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM403103;2024-03-07 06:03:02.0;2024-03-07 06:03:02.0;UATJavikiEkuUZe;Initial Payment;113.95;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM404349;2024-03-07 06:02:53.0;2024-03-07 06:02:53.0;UATJavikvnjcJPO;Initial Payment;165.46;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM434606;2024-03-07 06:00:57.0;2024-03-07 06:00:57.0;UATJavikSzaQxiA;Initial Payment;97.78;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM440646;2024-03-07 06:02:53.0;2024-03-07 06:02:53.0;UATJavikMIFWKcK;Initial Payment;87.10;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM446032;2024-03-07 06:03:15.0;2024-03-07 06:03:15.0;TestL;Initial Payment;165.46;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM478022;2024-03-07 06:02:56.0;2024-03-07 06:02:56.0;UATJavikFMLResx;Initial Payment;227.90;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM526860;2024-03-07 06:01:12.0;2024-03-07 06:01:12.0;Whitten;Initial Payment;37.26;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM577928;2024-03-07 06:00:57.0;2024-03-07 06:00:57.0;UATcssYsatgMBSKhRLu;Initial Payment;165.46;APPROVED;CC;3222;1224;Primary;Scheduled Payment
+FM597503;2024-03-07 06:02:51.0;2024-03-07 06:02:51.0;UATJavikKOHhkGg;Initial Payment;227.90;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM600691;2024-03-07 06:03:15.0;2024-03-07 06:03:15.0;UATJavikDtVJveN;Initial Payment;227.90;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM625706;2024-03-07 06:27:22.0;2024-03-07 06:27:22.0;Fox;Recurring;637.00;EXPIRED CARD;CC;4242;1223;Primary;Scheduled Payment
+FM634739;2024-03-07 06:02:46.0;2024-03-07 06:02:46.0;UATJavikDrMefsJ;Initial Payment;126.56;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM650004;2024-03-07 17:48:02.0;2024-03-07 17:48:02.0;Jennings;Initial Payment;75.12;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM651499;2024-03-07 06:00:58.0;2024-03-07 06:00:58.0;Shepherd;Initial Payment;259.37;APPROVED;CC;3222;1226;Primary;Scheduled Payment
+FM655765;2024-03-07 06:02:15.0;2024-03-07 06:02:15.0;UATJavikAMdZorm;Initial Payment;503.33;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM668697;2024-03-07 06:01:52.0;2024-03-07 06:01:52.0;UATJavikFFOFpId;Initial Payment;503.33;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM675868;2024-03-07 06:02:57.0;2024-03-07 06:02:57.0;UATJavikpyWdvmz;Initial Payment;165.46;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM682457;2024-03-07 06:02:53.0;2024-03-07 06:02:53.0;UATJavikmkhZNnY;Initial Payment;109.37;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM685568;2024-03-07 06:01:53.0;2024-03-07 06:01:53.0;UATJavikkqjrhwi;Initial Payment;227.90;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM690496;2024-03-07 06:02:56.0;2024-03-07 06:02:56.0;UATJavikjtbalWu;Initial Payment;176.75;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM703521;2024-03-07 06:02:54.0;2024-03-07 06:02:54.0;UATJavikiyGGrDi;Initial Payment;165.46;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM705702;2024-03-07 16:32:08.0;2024-03-07 16:32:08.0;UATjTpKdMlDZzgtSXdE;Initial Payment;227.90;APPROVED;CC;3222;1224;Primary;Scheduled Payment
+FM723937;2024-03-07 06:02:57.0;2024-03-07 06:02:57.0;UATJavikYIEJbcL;Initial Payment;227.90;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM724415;2024-03-07 06:03:16.0;2024-03-07 06:03:16.0;UATJavikXfJsuAN;Initial Payment;176.75;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM754625;2024-03-07 06:02:56.0;2024-03-07 06:02:56.0;Tuba;Initial Payment;49.05;APPROVED;CC;1111;1224;Primary;Scheduled Payment
+FM786864;2024-03-07 06:03:15.0;2024-03-07 06:03:15.0;UATJaviktQMNhKk;Initial Payment;87.10;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM805203;2024-03-07 06:00:48.0;2024-03-07 06:00:48.0;Smith;Recurring;391.87;APPROVED;CC;1111;1124;Primary;Scheduled Payment
+FM807405;2024-03-07 19:09:46.0;2024-03-07 19:09:46.0;UATJavikazrCQUZ;Initial Payment;165.46;GENERIC DECLINE;CC;0341;1026;Primary;Scheduled Payment
+FM807726;2024-03-07 06:03:12.0;2024-03-07 06:03:12.0;TestL;Initial Payment;227.90;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM810530;2024-03-07 06:00:57.0;2024-03-07 06:00:57.0;UATJavikgzQOZYW;Initial Payment;87.10;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM815505;2024-03-07 06:01:50.0;2024-03-07 06:01:50.0;Testerson;Initial Payment;24.52;APPROVED;CC;3222;1224;Primary;Scheduled Payment
+FM844426;2024-03-07 06:03:14.0;2024-03-07 06:03:14.0;UATJavikLtvINsG;Initial Payment;227.90;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM858637;2024-03-07 06:02:53.0;2024-03-07 06:02:53.0;UATJaviklqixEeq;Initial Payment;227.90;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM859394;2024-03-07 06:02:14.0;2024-03-07 06:02:14.0;UATJavikItXtOqq;Initial Payment;113.95;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM867629;2024-03-07 06:01:12.0;2024-03-07 06:01:12.0;UATJaviktNoAqAN;Initial Payment;186.47;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM871336;2024-03-07 06:02:13.0;2024-03-07 06:02:13.0;UATJavikuVmjmDW;Initial Payment;376.34;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM877327;2024-03-07 19:25:41.0;2024-03-07 19:25:41.0;UATJavikyucCMrA;Initial Payment;227.90;GENERIC DECLINE;CC;0341;1026;Primary;Scheduled Payment
+FM877327;2024-03-07 19:32:03.0;2024-03-07 19:32:03.0;UATJavikyucCMrA;Initial Payment;227.90;GENERIC DECLINE;CC;0341;1026;Primary;Scheduled Payment
+FM911420;2024-03-07 06:02:11.0;2024-03-07 06:02:11.0;UATJavikXYiDXyw;Initial Payment;109.37;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM917005;2024-03-07 06:01:00.0;2024-03-07 06:01:00.0;UATJavikLHjlovY;Initial Payment;251.66;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM929798;2024-03-07 06:02:14.0;2024-03-07 06:02:14.0;UATJavikZYuwTEh;Initial Payment;109.37;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM957204;2024-03-07 06:02:14.0;2024-03-07 06:02:14.0;UATJavikKaOKGcT;Initial Payment;109.37;APPROVED;ACH;6789;          ;Primary;Scheduled Payment
+FM972376;2024-03-07 06:02:13.0;2024-03-07 06:02:13.0;UATJavikLjIUMwW;Initial Payment;113.95;APPROVED;CC;3222;1026;Primary;Scheduled Payment
+FM998389;2024-03-07 06:03:03.0;2024-03-07 06:03:03.0;UATJavikyCMPqiv;Initial Payment;113.95;APPROVED;CC;3222;1026;Primary;Scheduled Payment
